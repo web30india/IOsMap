@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (4.6.0)
+  - Cosmos (12.0.1)
+  - GoogleMaps (2.5.0):
+    - GoogleMaps/Maps (= 2.5.0)
+  - GoogleMaps/Base (2.5.0)
+  - GoogleMaps/Maps (2.5.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.5.0):
+    - GoogleMaps/Base (= 2.5.0)
+  - IQKeyboardManagerSwift (4.0.8)
+  - KVNProgress (2.3.1)
+  - ReachabilitySwift (3)
+  - SCLAlertView (0.7.0)
+  - SDWebImage (4.2.2):
+    - SDWebImage/Core (= 4.2.2)
+  - SDWebImage/Core (4.2.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - Cosmos (~> 12.0)
+  - GoogleMaps
+  - GooglePlaces
+  - IQKeyboardManagerSwift (= 4.0.8)
+  - KVNProgress
+  - ReachabilitySwift (~> 3)
+  - SCLAlertView
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Cosmos: 4a9f57998a08788a1062c7b8eefbc62d2b590f39
+  GoogleMaps: c087b8e5dfe87ca6ebf59adb9b4894a4146bec4f
+  GooglePlaces: dd70d9d71ea1c7944846afe67de3712c99b30a77
+  IQKeyboardManagerSwift: c04bc9f68473823f825eb44d958fce98d921bead
+  KVNProgress: 8167b1f19e2758290c0b6143020ed9dcbb0477a1
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  SCLAlertView: 8a14ffc40590c619e183eed2298b854385f30be1
+  SDWebImage: 89a9d32cd520bbb46eb14e541d5109b3564af198
+
+PODFILE CHECKSUM: b43f30ed22686e5f1b7336ae99801e5f5a3909f4
+
+COCOAPODS: 1.3.1
